@@ -15,3 +15,5 @@ What are most popular citibike station in New York in may, 2020 as a starting st
 What are the top ten most popular stations in May 2019 and May 2020?
 What changes do we see between may 2019 to may 2020?
 
+I have analyzed the count of start station and end station in 2019 and 2020, corresponding to pre-Pandemic and during Pandemic time.  I have found a significant increase in citi bike usage in May 2020 during pandemic in comparison with May 2019. This phenomena is consistent with social distancing policy and avoiding of public transportation in New York during pandemic. I have established two dashboards, one showing the visualizations of 2019 and 2020 citibike usage in start stations and end station, the second dashboard centered on citibike usage time by gender. I found that both men and women usages peak at a similar time around morning 7am and afternoon 5pm, but women usage increases disproportionately in 2020 during pandemic.  This is also consistent with more women were using public transportation before pandemic but during pandemic they all switched to citibike or drive in private vehicles. 
+
